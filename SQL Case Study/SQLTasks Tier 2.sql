@@ -35,11 +35,6 @@ exploring the data, and getting acquainted with the 3 tables. */
 /* Q1: Some of the facilities charge a fee to members, but some do not.
 Write a SQL query to produce a list of the names of the facilities that do. */
 
-name
-Badminton Court
-Table Tennis
-Snooker Table
-Pool Table
 
 SELECT name
 FROM Facilities 
@@ -132,19 +127,28 @@ WHERE b.starttime LIKE '2012-09-14%' AND 30 <
 		WHEN b.memid <> 0 THEN f.membercost*b.slots
 		ELSE 1 END 
 
-ORDER BY cost DESC '
+ORDER BY cost DESC 
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
-SELECT *
+
+SELECT CONCAT(m.firstname,' ',m.surname) as person, sub.name as facility, 
+
+	CASE WHEN m.memid = 0 THEN guestcost*slots
+		WHEN m.memid <> 0 THEN membercost*slots
+		ELSE 1 END as cost
 
 
-FROM (SELECT facid, memid, slots
-		FROM Bookings 
-		WHERE bookid IN
-			(SELECT bookid
-			FROM Bookings
-			WHERE starttime LIKE '2012-09-14%')) as b
-	LEFT JOIN Facilities as f ON b.facid = f.facid
+FROM
+	(Select slots, b.facid, memid, guestcost, membercost, f.name
+	FROM Bookings as b
+		LEFT JOIN Facilities as f 
+		ON f.facid = b.facid
+	WHERE starttime LIKE '2012-09-14%'
+    	AND 30 < CASE WHEN memid <> 0 THEN membercost*slots
+    					WHEN memid = 0 THEN guestcost*slots
+    					ELSE 1 END) as sub
+
+LEFT JOIN Members as m ON m.memid = sub.memid
 
 
 /* PART 2: SQLite
