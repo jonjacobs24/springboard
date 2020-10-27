@@ -1,0 +1,493 @@
+﻿Community and Inclusion in Online Teaching
+Pomona College, Summer 2020
+
+
+1. PREFACE
+
+
+The Community and Inclusion Subcommittee for the Online Teaching and Learning Committee was formed on May 28, 2020 and includes Kara Wittman (Chair), Gilda Ochoa, Jody Valentine, Adan Gallardo, and Carolina de la Rosa Bustamante. Our charge was as follows:
+
+
+“A subcommittee on forming community and inclusive online pedagogy--virtual belonging, universal design; how to work against marginalizing students in old and new ways. This is a subcommittee charged with researching and curating resources and facilitating conversations. This might be an obvious point of collaboration with the 7C Center for Teaching and Learning. The ‘deliverable’ of this committee might be a FAQ/scenario website with strategies and links to resources.”
+
+
+Nobody anticipated that we would move so suddenly to online teaching and the online turn in the spring was fast and happened in a state of emergency. We want as a committee to reassure you that none of us should use Spring 2020 as the yardstick by which we measure our ability to teach online, or the possibilities that online teaching offers. The emergency is still here, but we have worked all summer to help everyone think about slowing down, being deliberate, and bringing the huge reserves of creativity, inventiveness, and intellectual generosity we already have as teachers to our online courses. Online teaching offers amazing opportunities for different ways of discovering and framing things, the possibility of rethinking equity and access, the chance to open your classroom differently to global resources, and a chance to get at what really matters to you as an instructor as you think about how to make those things transfer to another environment. To paraphrase something we heard one of our colleagues say recently, “No, this is no longer a classroom. Now we get to figure out what makes it a class.”
+
+
+Our charge is to focus on building community and inclusion in Online Instruction and we take that charge seriously here. Throughout, we also take seriously questions of equitable and consistent access and non-ableist, universally designed, and fully inclusive pedagogy. Our guiding ethic in this document is the effort to create pedagogies and learning experiences that move beyond individualist imperatives, that build intellectual communities, and that facilitate shared learning experiences and dialogue in online environments.
+
+
+Many of us are concerned about how to build community without the seemingly straightforward interconnections we foster in our classrooms when we meet face to face. Our first message to you is: take heart!  By deliberately making community-building a central aim of our pedagogy, we will expand our capacity for scaffolding connection in all contexts -- online and in person.  Not only is it possible to build real, meaningful community and connection online, but given the particular challenges presented by the Covid-19 pandemic, offering courses online may well afford especially inclusive, equitable, community-minded opportunities for students .
+
+
+The document that follows  is structured as a series of “Frequently Asked Questions” organized around common themes. We answer those questions according to our research and our own experiences and conversations, and we include links to other research and resources that speak to these issues. As a committee, we have agreed on the following common terms and use them accordingly in this document:
+
+
+* Online Instruction: fully remote courses taught entirely online with no expectation of Face to Face [F2F] interaction.
+* Face to Face Instruction [F2F]: instruction happening in person with no expectation of online instruction.
+* Synchronous Online Instruction: instruction happening in real time via Zoom or other interactive platforms.
+* Asynchronous Online Instruction: instruction happening not in real time, where material may be recorded or submitted and accessed later.
+
+
+_____________________________________________________________________________
+
+
+2. ONLINE COMMUNITY AND INCLUSION: FAQs
+
+
+ Building and Framing the Course
+
+
+* What do I need to think about as I am setting up my online course? 
+
+
+Suggestion: two seemingly (but not) contradictory things are important to consider at the outset. First: online teaching isn’t just teaching your existing course online. Teaching online is its own thing, with its own shape, pacing, timeline, way of organizing attention, and potential in terms of building student relationships. Second: you can still bring most of what you already do, and do well, into the online environment. You don’t need to be a technophile or willing to embrace all of the slickest new technology to teach online effectively. Your existing strategies for building community, facilitating discussion, running workshops, offering feedback, organizing a course, listening, and responding are all relevant and valuable and necessary here. They just need to be modified for the different space/time of the online environment. 
+
+
+Also: think about what you can strip away. Give yourself and your students some breathing room in the course. If, for example, you make some readings truly “optional” and provide them anyway, students can do bits of self-paced study in your course and feel more able to focus--and thus focus on each other’s contributions to discussion--in the actual online space.
+
+
+Suggestion: some suggestions from others, including the Cohort Workshops hosted by Janet Russell: (1) create a course landing page, or course website so that students feel like the course has a “home.” (2) Create an introductory video so students can see your face and learn a little about you and the course ahead of time. (3) Send out a welcome announcement. And finally, (4) let your students know at the outset how much communication they can expect from you, and when, and how, and that there will be space for them to get to know you and ask questions and talk in more intimate ways than just synchronous or asynchronous full-group discussion.
+
+
+One thing to consider is that in many ways good pedagogy is good pedagogy across the board: 
+
+
+https://theconversation.com/the-7-elements-of-a-good-online-course-139736
+
+
+Another aspect to consider in all courses, online and F2F, but in particular online because it is a new environment for many of us, is Universal Design:
+
+
+http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/
+
+
+
+
+* How will I identify the deep and essential goals of the course and pare down things that might not be possible in remote environments?
+
+
+Suggestion:  It is important to consider that inclusive, anti-oppression education in the fall of 2020 – in the midst of a worldwide pandemic, significant social activism, and increased awareness of and action against systemic racism in the U.S.A. -- will mean creating space for challenges, both foreseen and unforeseen.  You, your students, loved ones may get sick with symptomatic COVID-19 or may have to quarantine as a result of exposure.  It is possible that students are caring for elders or children in their homes and that the K-12 schools will not open, or open in a scattershot way.  It is possible that calls to action and protests will demand time away from conventional school activities. It is possible that activities and developments around the November election will cause disruption. Whatever the future holds, the past few months have been stressful for all and traumatic for some.  They have also been radical and revolutionary.  One way to accommodate the past, present, and future is to practice empathy for ourselves and our students by slowing down and centering what matters most in our courses this semester.  
+
+
+For inspiration, you might read:
+
+
+John K. Roth (2015) “What Matters Most?  Liberal Arts Colleges in Liberal Times” in The Best Kind of College: An Insiders' Guide to America's Small Liberal Arts Colleges (2015).
+
+
+bell hooks (2003) Teaching Community. Especially “Teach 7: How Can we Serve?” “Teach 11: Heart to Heart.  Teaching with Love,” and “Teach 14: This is our Life.  Teaching Toward Death.”
+
+
+Riyad A. Shahjahan (2015) Being ‘Lazy’ and Slowing Down: Toward decolonizing
+time, our body, and pedagogy, Educational Philosophy and Theory: Incorporating ACCESS, 47:5, 488-501, DOI: 10.1080/00131857.2014.880645
+
+
+*We have other resources on slow pedagogy, critical pedagogy, and anti-racist and decolonial pedagogy we can recommend if you would like these. Please also feel free to recommend things you’ve found helpful. 
+
+
+
+
+* How will my online course syllabus differ from a syllabus for a F2F course? 
+
+
+Suggestion: two things we see over and over again in the literature: (1) less is more and (2) slow down. Especially during a pandemic, where students are going to be under all kinds of unpredictable stress, and especially given how new the online learning environment is for most people, it will be helpful for everyone if you can reduce your expectations for how much you will and can do, how much students can read, and what the uptake pace will be. 
+
+
+Articles such as the following recommend being flexible, providing student options for assignments, creating project-based assignments, and structuring in more opportunities for rapport-building and student interaction. They also recommend cutting back on course readings and problem sets so that students can focus better on what they are learning in the limited and attention-draining space of Zoom and VidGrid and Sakai and others.
+
+
+Here are some useful questions we modified and expanded (and re-titled)  from a great document produced by Baylor University’s “Designing and Teaching for Online Courses” [https://baylor.instructure.com/courses/53896/pages/course-planning-with-backward-design] [Baylor University collaborated with Indiana University; we modified these questions]:
+
+
+Sample Syllabus Design Questions: Paring Down Your Course for Online Teaching & Making Space for Community Building and Contingency
+
+
+·           What am I including so that students have the prerequisite knowledge and skills to continue 
+in the discipline?
+ 
+·           What am I including so that students can meet the writing and researching demands of
+ college? What am I  including so that students can continue learning to meet the writing
+ and researching demands of college?
+ 
+·           How am I balancing the content knowledge of the course (related to my topic/theme) and the 
+‘form’ knowledge (writing and speaking conventions, genre expectations, organizing a paper,
+ citing research, etc.)?
+ 
+·           What am I including only because it's in the textbook, anthology,  or the style guide?
+ 
+·           What am I including in my course because it's central to the discipline, or because I would be
+ personally embarrassed if a student left this course not knowing these things?
+ 
+·           What am I including because I’ve done it for years and include it largely out of habit?
+ 
+·           What am I including because it's something I'm really passionate about and think will
+ inspire and excite my students? How can I use that passion and excitement  for what I include to build community?
+
+
+For more ideas, see:  https://www.chronicle.com/article/How-Your-Syllabus-Can-Cater-to/248964
+
+
+“Exploring Connections in the Online Learning Environment: Student Perceptions of Rapport, Climate, and Loneliness by Renee Kaufmann and Jessalyn I. Vallade.
+
+
+General suggestions for syllabi design: 
+https://www.chronicle.com/interactives/advice-syllabus
+
+
+* How will I seek student input in a supportive (not stigmatizing) way about their technological needs, course concerns, and other factors that might impede their on-line engagement and overall academic success?
+
+
+Suggestion: In order to discover information about student circumstances in non-stigmatizing ways, the literature recommends universalizing and making private questions about needs and resources. 
+
+
+For example, your syllabus can include resources for getting access to technological support, WiFi hotspots, and computers, as well as suggestions for open, safe private working spaces. 
+
+
+You might ask all students to submit an email form to you listing technological needs and course concerns. Or send out a survey they can fill out anonymously so that you know what to provide, research, and anticipate on day 1. 
+
+
+A course designed with the principles of universal design and equity in mind will also include both synchronous and asynchronous aspects so that students can get into the rhythms of the course without needing to reveal too much about their circumstances.
+
+
+You also might share some strategies for success with your students and discuss how you understand these strategies--and what support you can provide, or where they might go for support. Here are some student-facing suggestions: 
+
+
+https://www.learnhowtobecome.org/career-resource-center/student-success-online-college/?fbclid=IwAR2Hkj7qXm9sQPPrn3prX9GBIKCa6TIr9XtssKpZ77cpR9TkIAeHlckhjVU
+
+
+
+
+* How do I create community guidelines for participation, listening, respectful dialogue, etc. in an online course? 
+
+
+Suggestion: One way to go about this is to have students participate in the process. This can be true also for thinking about class agreements about what it means to occupy a shared Zoom space, use of chat, how the class will handle calling on people for comments (do you use the hand raise feature? Do you raise physical hands?), and what it means to “participate” where that does not always look like talking, but can be listening actively, responding later to peer comments in asynchronous fora, speaking in breakout groups but not in the full group discussion, etc. 
+
+
+You could do that cold (start from scratch in class) or crowdsource student comments early via email or surveys and then use that feedback to begin providing guidelines and have students modify them.
+
+
+Here is a sample prompt from a faculty member at Cornell University:
+
+
+-Purpose--
+These “rules of engagement” will set the tone for our online course.
+-Task-
+Guideline #1: Contribute to a set of "best practices" for speaking, discussing, and listening for two cases:
+*online environment (synchronous)
+*asynchronous work
+Guideline #2: Articulate the conditions that allow for our best work and involvement
+Guideline #3: “Professional” behavior is often the norm, but we rarely define what it means; outline the behaviors that will encourage the above two guidelines.
+
+
+Here are some more suggestions for building community guidelines:
+
+
+https://whatisessential.org/resources/building-agreements-moments-dissent-exercise?fbclid=IwAR1Nf4T2vuikbo_PwE9GAB_lDGoIsRXoBRlcLdwzJK9RWj_148RmDhf0Wo4
+
+
+
+
+* What do I need to say and discuss on the first day of class or in announcements ahead of the class about what it means to work on camera, to be seen on screen, to have your home on screen, to feel required to show your face in a setting that requires you to look directly at a camera? 
+
+
+
+
+Suggestion: as we mention above, short introductory videos and course home websites can help you get this information out there or at least prepare students to start thinking about it. If you’re really feeling ambitions, some faculty have created “trailers” for their courses…
+
+
+https://www.youtube.com/watch?v=CiwcDHPxZiI
+
+
+The Writing Center/Program & QSC are currently considering having our Speaking Partners, who have been through all kinds of training, make short student-facing videos about online learning, ways of participating in remote discussions, and other strategies for learning to be a student in this new environment. Stay tuned for this! 
+
+
+Suggestion: blending synchronous and asynchronous work will take some of the pressure off of the intensive, sometimes-stressful nature of synchronous discussion fora in online spaces. 
+
+
+And also: Last semester, some students expressed concerns that they were required to keep their cameras on during zoom class sessions or while taking exams. This caused undue stress, especially in cases where students had limited internet access or had little control over who was in their shared space. We see this as an issue of equity and encourage faculty to not require students to keep their cameras or microphones on at all times. There are MANY ways to participate and having those conversations with students will help them understand that presence isn’t always visual, nor is participation always talking. 
+
+
+
+
+      Building Community and the First Days of Class
+
+
+* What are some strategies for building community?
+
+
+Suggestion:  Something to consider from the beginning is why you need community. Our baseline should be equity and inclusion. Community is inclusion activated and turned into a verb: including. Why do you need it? How does it help the intellectual project or make the intellectual project of the course possible? How does it make dialogue possible; how does it make resistance and dissent possible? If you are teaching a course that will talk about urgent contemporary issues and that may land differently on different bodies according to different lived experiences, how is your community building strategy going to change? How you will make sure your community doesn’t rely on assumptions that are tacitly exclusionary (cultural references, reliance on those “lived experiences” without recognizing the burden you might be putting on someone, assumptions about shared knowledge and vocabulary, etc.)? 
+
+
+Unlike in-person classes where students have more informal opportunities for dialoguing and sharing experiences that help to build community, additional attention is often needed in online teaching. A few strategies we have employed to foster community include strategically using the break-out rooms in Zoom for students to have more sustained dialogue, providing opportunities for group projects, and beginning class sessions with brief getting-to-know-you questions and other prompts. 
+
+
+Suggestion: in any class, online or F2F, bringing every student into a shared sense of the intellectual project of the course, the shared process of learning, and the work of building knowledge collaboratively will help students understand their purpose in being there, why and how they can and should participate, and how their attention is necessary and valued. Spend some time at the beginning of the course talking about the arc of the course, where you’re headed, why discussion matters, how to read  so that students feel prepared to participate, and what alternatives are for participating and advancing the intellectual work of the course. 
+
+
+See these books and articles: 
+
+
+For overall tips on building community online, please see:
+https://tophat.com/blog/online-learning-community/
+
+
+For general advice on connecting with students online:
+https://www.chronicle.com/article/5-Ways-to-Connect-With-Online/249077?fbclid=IwAR3zeA2O8n1I9DI44GoiDudQZANfXf6Gq2GUov5j9JB2uOC9HolXA6DgVd8
+
+
+Article on community in distance learning: https://www.scholarlyteacher.com/post/community-from-a-distance-building-a-sense-of-belonging-in-an-online-classroom
+
+
+Book on online teaching strategies--the TOC and Preface offer a helpful sense of where to turn in the book: https://www.google.com/books/edition/Online_Teaching_at_Its_Best/Vrg6DwAAQBAJ?hl=en&gbpv=1&dq=online+teaching+at+its+best&printsec=frontcover
+
+
+Book on accessible learning and technology with a grounding in disability study and accessibility: 
+https://books.google.com/books?id=992pb4eYgfEC&pg=PR15&lpg=PR15&dq=%22norm+coombs%22&source=bl&ots=jQSnUuvDMr&sig=ACfU3U3PuTCWww1apZkG9hQ1z1S288ZvuQ&hl=en&sa=X&ved=2ahUKEwiiipihwaXqAhW-HzQIHQkuCmUQ6AEwCHoECAoQAQ#v=onepage&q=%22norm%20coombs%22&f=false
+
+
+
+
+
+
+* What should I do on the first day to begin establishing community?
+
+
+Suggestion:  In order to successfully create community in our classes, as bell hooks convincingly argues, we must bring “our whole selves” to our teaching and invite our students to do the same.  By doing ourselves what we are asking our students to do, we are not expecting them to become vulnerable as we protect ourselves.  
+
+
+* Sub-Question:  What does it mean to “bring our whole selves” to our teaching?
+
+
+Suggestion: By taking care of ourselves, and showing ourselves to our students as fully-fledged people with (especially now) complex lives that are impacted by the pandemic and social movements and injustice that cannot (and should not) be ignored, we create space for relational engagement and connection: the building blocks of community.  
+
+
+See bell hooks (1994) “Engaged Pedagogy” in Teaching to Transgress: Education as the Practice of Freedom.
+
+
+Another meditation on the subject from an experienced online instructor: https://insidehighered.com/blogs/just-visiting/guest-post-taking-care-creating-meaningful-online-learning
+
+
+
+
+* Sub-Question:  What are ways that you already build community on the first day?  How might these be best adapted to the online environment?
+
+
+Suggestion:  Create Breakout Rooms for students to do a mini-workshop (on the course topic or theme, or on the syllabus itself) and visit each breakout group for a few minutes to chat. [e.g. time the workshop for 40 minutes; divide the class into 4 groups; create 30 minutes of work; allot 10 for your interruption.]   
+
+
+See:  Kate Shimamoto (Pomona Undergrad) informal blog post (2020) “Implementing Relational Pedagogy in the Form of 15 Minute Chats”
+
+
+* Sub-Question: How might we scaffold opportunities for students to connect with one another (and with you) informally?  They won’t have the minutes before class, time during break time, or the after-class shuffle in the hallway to chat.  How can these moments be scaffolded online?  
+
+
+Suggestion:  Ask a student to volunteer to take over as host at the end of class for 15 minutes or so, so that students can stay on a chat after class is over and you have signed off.  Or ask an informal question at the end of class and invite students to stay on for a chat as you officially end class.  [One of these two after-class chats could be offered every week, not only on the first day.]
+
+
+Suggestion 2: Pomona IT supports the use of Slack, an application that allows for chat-style conversations that can be organized in various ways.  See https://ritg.pomona.edu/tools/slack/.
+
+
+
+
+* How can I prepare students for moments in the online classroom that become stressful or inefficient because of technical issues, lags in technology, and interruptions? 
+
+
+Suggestion:  It might help to have an initial conversation with the class about strategies when technology fails. That way, the class is working collectively to address problems and no one person feels responsible. Key to all of this too is patience and acknowledging when classmates are having technological difficulties. There might be times when students can post their contributions in chat and will need to turn off their cameras, when they have little bandwidth. 
+
+
+* What role can breakout groups play? 
+
+
+Suggestion: In an online classroom breakout rooms allow for small group discussion to help enhance community. Students will be able to communicate and have deeper conversations on topics than they could in a larger group setting. You also might consider having peer mentors (Writing Partners, Speaking Partners, TAs, or other student participants) join breakout groups from time to time to help give shape to the discussions, take notes, and build community with other peers outside of the class.
+
+
+See: Berry, Sharla. “Teaching to Connect: Community-Building Strategies for the Virtual Classroom.” Online Learning, Vol. 23, no.1, 2019, 164-183.
+
+
+
+
+* Do I need to be present in order to build community, or are there strategies for community building that can be student-guided and directed?
+
+
+Suggestion: Conceptual Workshops, which are essentially lectures broken down into workshops that the students complete in small groups provide clear structure and focus for small group work.  Conceptual Workshops are designed to be completed without the faculty present (although you should be available via Chat on Zoom or nearby if in person, and you could drop-in to the breakout rooms). 
+
+
+See Don Finkel (2000) “Chapter 6: Experiences that Teach” in Teaching With Your Mouth Shut. 
+
+
+
+
+* What are some strategies for including and building community with students who do not want to appear on screen or cannot appear on screen?
+
+
+Suggestion: Have the instructor post a video introduction to sakai to essentially humanize the course for students. The video should be online before the start of class so that students can have a sense of the instructor’s personality and some personal interests. This can serve as a model for students to also introduce themselves ahead of time and post their own videos if they cannot or do not want to be online. Some assignments could be video assignments that can be uploaded at the students leisure giving the student the opportunity to record themselves when they are able.
+
+
+Suggestion: voices matter just as much when they are coming from a visible or an invisible face. You might need to give extra attention to saying those students’ names when you recall or revisit their points in discussion, or having them use the “hand raise” feature in Zoom, so that the lack of visual contact does not equal an overall exclusion. 
+
+
+See: https://www.insidehighered.com/digital-learning/article/2017/07/26/ideas-building-online-community
+
+
+Note:  Pomona IT supports VidGrid for making and sharing video content.  https://ritg.pomona.edu/tools/vidgrid/
+
+
+
+
+* What are some strategies for rebuilding community mid-semester or later in the term as students become tired and distracted? 
+
+
+Suggestion: Similar to writing conferences commonly used in ID1 classes, individual or group meetings with students in lieu of 1-2 classes are helpful for checking-in with students about their learning, engagement with the course materials, and overall well-being. 
+
+
+Some of us found that 1:1 phone calls--which take some of the pressure off of the visual--served as office hours and worked really well in the spring and over the summer for check-ins and allowed for a less intimidating interaction in which students could share frustrations and exhaustion and feel heard. 
+
+
+
+
+
+
+
+
+Facilitating Dialogue
+
+
+* What are some potential pitfalls and challenges in running an online discussion I should consider?
+
+
+Suggestion: The linked article has some good tips in general, but I found Kalenda Eaton’s perspective particularly good. She points out that students might need up-front language and maybe ground rules to help them see how this differs from the social media kinds of interactions they’re used to. 
+
+
+https://www.insidehighered.com/digital-learning/article/2017/11/15/peer-advice-instructors-teaching-online-first-time
+
+
+Talking about something like how this is not social media with students gives them a way to discuss what they already know well and are thinking about, which allows everyone to speak from a position of knowledge. 
+
+
+Suggestion: Giving students multimodal ways to participate in discussion can anticipate and maybe protect against some of the pitfalls of failing technology, inaudible comments, fear about speaking in online spaces, and fear about discussing sensitive topics in a space that might not be safe for the students. 
+
+
+
+
+* What are other ways to register feedback and affirmation--active listening and processing--to let students know that you hear them and that you are engaging them, to help students feel “seen” without looking directly at them? 
+
+
+Suggestion: One strategy is to encourage the class to put affirmations and feedback in the chat for each other. This fosters a spirit of generosity where  students develop a connection with one another and do not rely only on faculty input.
+
+
+Using student names and recalling and revisiting earlier points can loop students back into a discussion over and over again without them needing to make a new point or raise a hand. 
+
+
+Have students submit questions, or Sakai posts, or other kinds of responses ahead of time that you can pull from, quote from, and affirm even without needing to look directly at or hear from the student. 
+
+
+* How do I make sure students feel a sense of connection to the discussion we’re having, to the project we’re working on, and to each other AND to the space of the dialogue itself?
+
+
+Suggestion: good pedagogy in any discussion involves amplifying and recirculating student perspectives, remembering student contributions, and naming students as you re-introduce or synthesize their points in the discussion. Our experience has been that this is even more critical for online discussion, especially using student names as you acknowledge their contributions and weaving them back into later discussions so students can hear their names and ideas coming alive in the space. 
+
+
+Some suggestions from the Center for Teaching Excellence at Boston College:
+
+
+http://cteresources.bc.edu/documentation/synchronous-teaching-considerations/teaching-an-online-synchronous-session/
+
+
+* What about class size: how can I have all faces on screen simultaneously so that I can see everyone and see who is raising hands and who is reacting in certain ways and who is struggling or showing distress?  
+
+
+Suggestion:  Large screens would be an asset for all faculty teaching online to use for Zoom sessions.  Others have found working with two monitors can be useful, where one shows the student faces and the other the document/video/clip/image being shared. There is not currently a dedicated source of funding for these.
+
+
+
+
+* What are some strategies for running effective breakout-room discussions where I cannot be present?
+
+
+Suggestion: Combining synchronous (with you present), synchronous (without your presence) and asynchronous is actually shown to be more effective than any one of these methods alone. One thing to consider for breakout discussions is who you might ask to participate in the group to help shape the discussion, take notes, prompt dialogue, and ask questions. Peer mentors from your department could help here, as could embedded or affiliated Writing and Speaking Partners.
+
+
+As with in-person classes, discussion prompts and group projects can help inspire dialogue. These break-out rooms also provide less structured opportunities for students to brainstorm and discuss course materials most relevant to them.
+
+
+This source offers strategies for facilitating effective asynchronous discussion boards:
+
+
+https://tomprof.stanford.edu/posting/1634
+
+
+And this is a lit review of other related articles about online asynchronous discussions:
+
+
+https://www.sciencedirect.com/science/article/abs/pii/S1096751606000704
+
+
+And from the 7Cs CTL:
+
+
+https://teaching.claremont.edu/resources/remote-teaching/
+
+
+
+
+* How do we best facilitate discussions about sensitive and difficult topics, or issues that will land differently for our different students based on their own lived experiences in an online environment where we have limited affective cues and students may be working where they are audible to other household members?
+
+
+Suggestion: As with in-person classes, it is helpful to acquire a sense of where students are 
+entering the conversation without judgement. At the beginning of the semester and at the beginning of especially sensitive conversations, we have asked students to complete information sheets indicating previous coursework, their general familiarity on particular topics, and any concerns they might have discussing particular course topics. Other strategies are using the anonymous poll on zoom to gauge where students are on particular topics. This information is helpful for planning discussions. 
+
+
+Sometimes naming possible forms of discomfort in advance or as they emerge helps too to create space for students to share as well and for the class to collectively discuss possible strategies.
+
+
+Students might be encouraged to use the chat feature in zoom to type in their contributions to the discussion, especially if they are concerned about people in their surroundings hearing what they have to say.
+
+
+ Strategies for Asynchronous Community Building
+
+
+ 
+* Why consider a partially asynchronous approach to online instruction? 
+ 
+Suggestion: Asynchronous instruction increases access for a variety of students to engage in online learning. It can be inclusive of:
+* Students in different time zones and cultures (variant national holidays, etc.)
+* Students who may have jobs or caregiving responsibilities at home 
+* Students who may have infrastructure/technical challenges (access to wifi, private space, hardware, etc.)
+* Students who are non-native speakers. Asynchronous activities provide more time to interpret and respond to prompts.
+
+
+
+
+See: 
+ 
+Bringing Out the Human in Synchronous and Asynchronous Media for Learning by Maha Bali, Associate Professor of Practice, Center for Learning and Teaching, American University in Cairo. (Chapter 11 in Humanizing Online Teaching and Learning)
+ 
+An Affinity for Asynchronous Learning by Maha Bali and Bard Merier
+
+
+* What are ways to form community in largely asynchronous environments/or what are some ways of bringing people together not in real time for discussions? 
+Suggestion: Focus on strategies and technologies that foster exchange of ideas and interaction among students. Consider low-stakes and/or ungraded assignments that prompt students to share a bit about who they are. Build into the assignment a requirement to comment or respond to X number of peers.
+Discussion boards on Sakai or other sites are a great place to do this. Discussions don’t always need to be text-based. Students can also submit responses by posting a video. Slack channels and Google documents also provide ways for students to respond to each other at staggered times.
+
+
+See the following for ideas to build community in online classrooms:
+Building Community in Asynchronous Online Courses https://learninginnovation.duke.edu/blog/2020/02/building-community-in-asynchronous-online-courses/
+Turns Out You Can Build Community in a Zoom Classroom by Rachel Toor, Chronicle of Higher Ed. 
+ 
+OTHER RESOURCES:
+* Equity-minded assessment entails the following actions
+* Webinar: Fostering LGBTQ2S+ Inclusion in Online Learning LGBTQ2S Thriving on Campus (YouTube Chanel) 
+* Purdue University: Teaching Remotely Together Podcasts & Videos
+* Michelle Pacansky-Brock - Humanizing Temporary Remote Instruction in Support of Equity. Additional resources on her website. 
+* Equity-Minded and Culturally-Affirming Teaching and Learning Practices in Virtual Learning Communities by Frank Harris III and J. Luke Wood 
+ 
+ 
+The Subcommittee for Community and Inclusion in Online Teaching
+
+
+Kara Wittman (kara.wittman@pomona.edu)
+Gilda Ochoa (gilda.ochoa@pomona.edu)
+Jody Valentine (jody.valentine@pomona.edu)
+Carolina de la Rosa Bustamante (carolina.delarosabustamante@pomona.edu) 
+Adan Gallardo (adan.gallardo@pomona.edu)
